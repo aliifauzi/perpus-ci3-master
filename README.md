@@ -4,10 +4,13 @@ Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan
 
 ##Petunjuk Penggunaan
 Login menggunakan akun :
+
 user admin alliifauzi
+
 pass admin 123
 
 user pengguna ali30
+
 pass pengguna 123
 
 
