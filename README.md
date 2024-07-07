@@ -2,6 +2,15 @@
 Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
 <br><br>
 
+##FITUR 
+
+- CRUD
+
+- Login
+
+- Cetak PDF
+
+
 ##Petunjuk Penggunaan
 Login menggunakan akun :
 
